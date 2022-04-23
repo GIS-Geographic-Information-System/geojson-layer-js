@@ -1,5 +1,5 @@
 ---
-#Demo
+# Demo
 
 http://esri.github.io/geojson-layer-js/geojsonlayer.html
 
