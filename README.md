@@ -1,3 +1,9 @@
+---
+#Demo
+
+http://esri.github.io/geojson-layer-js/geojsonlayer.html
+
+---
 # geojson-layer-js
 
 > NOTE: The ArcGIS API for JavaScript 4 now supports a native [GeoJSONLayer](https://developers.arcgis.com/javascript/latest/api-reference/esri-layers-GeoJSONLayer.html). Please use [GeoJSONLayer](https://developers.arcgis.com/javascript/latest/api-reference/esri-layers-GeoJSONLayer.html) moving forward.
